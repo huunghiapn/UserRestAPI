@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/UserRestAPI.iml" filepath="$PROJECT_DIR$/.idea/modules/UserRestAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/UserRestAPI_main.iml" filepath="$PROJECT_DIR$/.idea/modules/UserRestAPI_main.iml" group="UserRestAPI" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/UserRestAPI_test.iml" filepath="$PROJECT_DIR$/.idea/modules/UserRestAPI_test.iml" group="UserRestAPI" />
+    </modules>
+  </component>
+</project>
